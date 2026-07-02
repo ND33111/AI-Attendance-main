@@ -1,6 +1,9 @@
+streamlit # for creating webpage
+
 # Utilities
 numpy
 pandas
+
 
 # Face Recognition
 scikit-learn
@@ -15,7 +18,6 @@ bcrypt # for hashing of passwords
 segno # for creating QR
 pillow # for image resizing stuffs
 
-streamlit # for creating webpage
 
 librosa
 resemblyzer
