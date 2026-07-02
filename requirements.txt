@@ -16,3 +16,6 @@ segno # for creating QR
 pillow # for image resizing stuffs
 
 streamlit # for creating webpage
+
+librosa
+resemblyzer
