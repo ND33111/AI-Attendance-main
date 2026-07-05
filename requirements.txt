@@ -16,8 +16,8 @@ supabase # for database
 bcrypt # for hashing of passwords
 
 segno # for creating QR
-pillow # for image resizing stuffs
+pillow # for image opening, creating, edititng and saving stuffs
 
 
-librosa
-resemblyzer
+librosa  # for audio processing
+resemblyzer # for voice recognition
